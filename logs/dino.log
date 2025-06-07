@@ -1,0 +1,30 @@
+2025-06-05 01:31:31 | INFO | Starting Telegram bot...
+2025-06-05 01:32:26 | INFO | Starting Telegram bot...
+2025-06-05 01:33:02 | INFO | New message from Rjoubaa: Hello
+2025-06-05 01:33:02 | INFO | Classified message: category=question, priority=normal
+2025-06-05 01:33:03 | ERROR | GPT API error: Error code: 400 - {'error': {'code': 'unknown_model', 'message': 'Unknown model: your-deployment-name', 'details': 'Unknown model: your-deployment-name'}}
+2025-06-05 01:33:04 | SUCCESS | Ticket created for user Rjoubaa
+2025-06-05 01:33:35 | INFO | New message from Rjoubaa: Password reset
+2025-06-05 01:33:35 | INFO | Classified message: category=question, priority=normal
+2025-06-05 01:33:36 | ERROR | GPT API error: Error code: 400 - {'error': {'code': 'unknown_model', 'message': 'Unknown model: your-deployment-name', 'details': 'Unknown model: your-deployment-name'}}
+2025-06-05 01:33:37 | SUCCESS | Ticket created for user Rjoubaa
+2025-06-05 01:53:05 | INFO | Starting Telegram bot...
+2025-06-05 01:54:12 | INFO | New message from Rjoubaa: How to reset password
+2025-06-05 01:54:12 | INFO | Classified message: category=question, priority=normal
+2025-06-05 01:54:15 | SUCCESS | Generated response from GPT
+2025-06-05 01:54:16 | SUCCESS | Ticket created for user Rjoubaa
+2025-06-05 01:54:58 | INFO | New message from Rjoubaa: How can I open opportunities on expa
+2025-06-05 01:54:58 | INFO | Classified message: category=question, priority=normal
+2025-06-05 01:55:01 | SUCCESS | Generated response from GPT
+2025-06-05 01:55:01 | SUCCESS | Ticket created for user Rjoubaa
+2025-06-05 01:55:38 | INFO | New message from Rjoubaa: Where is Ic 2025
+2025-06-05 01:55:38 | INFO | Classified message: category=question, priority=normal
+2025-06-05 01:55:42 | SUCCESS | Generated response from GPT
+2025-06-05 01:55:45 | SUCCESS | Ticket created for user Rjoubaa
+2025-06-05 01:56:11 | INFO | New message from Rjoubaa: Where will be the international congress of aiesec 2025 be hosted
+2025-06-05 01:56:11 | INFO | Classified message: category=question, priority=normal
+2025-06-05 01:56:18 | SUCCESS | Generated response from GPT
+2025-06-05 01:56:20 | SUCCESS | Ticket created for user Rjoubaa
+2025-06-05 01:56:45 | INFO | New message from Rjoubaa: Yes escalate the team this is urgent
+2025-06-05 01:56:45 | INFO | Classified message: category=question, priority=urgent
+2025-06-05 01:56:46 | SUCCESS | Ticket created for user Rjoubaa
